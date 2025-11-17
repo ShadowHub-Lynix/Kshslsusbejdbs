@@ -2,7 +2,7 @@ return {
 
 
     -- staff
-["fh_user1"] = true, -- @zaxxin_ Staff
+["LynixDevOfc"] = true, -- @zaxxin_ Staff
 ["w82osjsa"] = true, -- @guizin019i Staff
 ["zackinkkj"] = true, -- @bh_rdg Staff
 ["Rhuanprozim"] = true, -- @rh._._ Staff
